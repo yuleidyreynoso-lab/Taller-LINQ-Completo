@@ -1,0 +1,14 @@
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\bin\Debug\net8.0\TallerLINQ.exe
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\bin\Debug\net8.0\TallerLINQ.deps.json
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\bin\Debug\net8.0\TallerLINQ.runtimeconfig.json
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\bin\Debug\net8.0\TallerLINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\bin\Debug\net8.0\TallerLINQ.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.AssemblyInfoInputs.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.AssemblyInfo.cs
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.csproj.CoreCompileInputs.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\refint\TallerLINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\TallerLINQ.genruntimeconfig.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\TallerLINQ\obj\Debug\net8.0\ref\TallerLINQ.dll

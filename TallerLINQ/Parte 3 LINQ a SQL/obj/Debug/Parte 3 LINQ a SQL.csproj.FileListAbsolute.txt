@@ -1,0 +1,10 @@
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\bin\Debug\Parte 3 LINQ a SQL.exe.config
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\bin\Debug\Parte 3 LINQ a SQL.exe
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\bin\Debug\Parte 3 LINQ a SQL.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte 3 LINQ a SQL.csproj.AssemblyReference.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte_3_LINQ_a_SQL.Properties.Resources.resources
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte 3 LINQ a SQL.csproj.GenerateResource.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte 3 LINQ a SQL.csproj.CoreCompileInputs.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte 3 LINQ a SQL.exe
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte 3 LINQ a SQL.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Parte 3 LINQ a SQL\obj\Debug\Parte_3_LINQ_a_SQL.Form1.resources

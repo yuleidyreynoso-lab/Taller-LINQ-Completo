@@ -1,0 +1,14 @@
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\bin\Debug\net8.0\Colsultas a colecciones en LINQ.exe
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\bin\Debug\net8.0\Colsultas a colecciones en LINQ.deps.json
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\bin\Debug\net8.0\Colsultas a colecciones en LINQ.runtimeconfig.json
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\bin\Debug\net8.0\Colsultas a colecciones en LINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\bin\Debug\net8.0\Colsultas a colecciones en LINQ.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.AssemblyInfoInputs.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.AssemblyInfo.cs
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.csproj.CoreCompileInputs.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\refint\Colsultas a colecciones en LINQ.dll
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.pdb
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\Colsultas a colecciones en LINQ.genruntimeconfig.cache
+C:\Users\YULEIDY\source\repos\ProyectoFin\Proyecto final Programación\Colsultas a colecciones en LINQ\obj\Debug\net8.0\ref\Colsultas a colecciones en LINQ.dll
